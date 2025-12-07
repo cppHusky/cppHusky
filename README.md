@@ -1,1 +1,1 @@
-![cppHusky's GitHub Stats](https://githubcard.com/cppHusky.svg?d=q0maNC0D)
+![cppHusky's GitHub Stats](https://githubcard.com/cppHusky.svg?d=mzSC7mcY&nocache=1)
