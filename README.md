@@ -27,64 +27,53 @@ man, yes definitely   XXxxxX$xXx$X;;+;;;;;;+++++++x;;;X++;;;+++xxXXX+
 I am. I used to       xxxx+xx+xXXXx$x;+;;;;;;+++++xxx+++++XxXXx+x++
 climb mountains when  XXXXxxxxx++xxxxx$x;;;;;;;;x+x+xxXXXxx+;;+
 living in China,
-because I have no                    <My avator, a husky>
+because I have no                    ^ My avator, a husky
 money, no girlfriend.
 After moving to Japan, I no longer climb because I cannot afford the
 transportations to mountain. Now I am staying in my room every day,
 gaming or writing projects, and sometimes playing with myself.
 
-                  -`                    I'm good at math, physics and
-                 .o+`                   history. I hate politics and
-                `ooo/                   chemistry. My undergraduate
-               `+oooo:                  major is Computer Science and
-              `+oooooo:                 Technology, but I'm not a
-              -+oooooo+:                programmer.
-            `/:-:++oooo+:
-           `/++++/+++++++:              I'm using archlinux from 2 years
-          `/++++++++++++++:             ago. My favorite compositor is
-         `/+++ooooooooooooo/`           Niri, favorite editor is ViM,
-        ./ooosssso++osssssso+`          and mostly used language is
-       .oossssso-````/ossssss+`         Markdown. Yeah, Markdown. After
-      -osssssso.      :ssssssso.        the agents boomed, I almost
-     :osssssss/        osssso+++.       don't write even a single line
-    /ossssssss/        +ssssooo/-       of programming code on my own. I
-  `/ossssso+/:-        -:/+osssso+-     always have an amount of strange
- `+sso+:-`                 `.-/+oso:    ideas, and agents can help me
-`++:.                           `-/+/   bring them into reality. That's
-.`                                 `/   also the reason why I can hold
-                                        a puzzle-hunt game Last Train to
-       <The logo of archlinux>          Mistery for 4 years. Every year
-                                        I came up with 7 puzzles and
-invite everyone to solve them. If you want to know more about this
-puzzle, please visit the site [https://solution.cpphusky.xyz/]. If you
-want to play a puzzle, try [https://mijie.cpphusky.xyz] please.
+I'm good at math, physics and history. I hate politics and chemistry. My
+undergraduate major is Computer Science and Technology, but I'm not a
+programmer.
 
-I'm the formal              ++ .++++++++++          ++++++++++; ++
-leader of BYR Docs,         ++                ++                ++
-a document sharing        ++++                ++                ++++
-platform for BUPT         ++++                ++                ++++
-students. We had          ++++                ++                ++++
-made a lot of great       ++++                ++                ++++
-achivements and be        ++++                ++                ++++
-extremely popular         ++++                ++                ++++
-at that time. After       ++++                ++                ++++
-graduating from           ++++                ++                ++++
-college, I almost         ++++                ++                ++++
-not participate in        ++++                ++                ++++
-the daily work            ++++                ++                ++++
-anymore, but thanks       ++++                ++                ++++
-to my cooperators         ++++                ++                ++++
-and successors, BYR       ++++++              ++              ++++++
-Docs is still             ++++++++++++++++++++++++++++++++++++++++++
-going well. If you          +++++++++++++++++++++++++++++++++++++++
-want to know more
-about the                 ++++++++++++++++++++++++++++++++++++++++++
-organization and its     ++++++++++++++++++++++++++++++++++++++++++++
-projects, please       ++++++++++++++++++            ++++++++++++++++++
-visit the site        ++++++++++++++++++++++++++++++++++++++++++++++++++
-[https://byrdocs.org]
-and the GitHub                      <The logo of BYR Docs>
-Organization page
+I'm using archlinux from 2 years ago. My favorite compositor is Niri,
+favorite editor is ViM, and mostly used language is Markdown. Yeah,
+Markdown. After the agents boomed, I almost don't write even a single
+line of programming code on my own. I always have an amount of strange
+ideas, and agents can help me bring them into reality. That's also the
+reason why I can hold a puzzle-hunt game Last Train to Mistery for 4
+years. Every year I came up with 7 puzzles and invite everyone to solve
+them. If you want to know more about this puzzle, please visit the site
+[https://solution.cpphusky.xyz/]. If you want to play a puzzle, try
+[https://mijie.cpphusky.xyz] please.
+
+      ++ .++++++++++          ++++++++++; ++        I'm the formal
+      ++                ++                ++        leader of BYR Docs,
+    ++++                ++                ++++      a document sharing
+    ++++                ++                ++++      platform for BUPT
+    ++++                ++                ++++      students. We had
+    ++++                ++                ++++      made a lot of great
+    ++++                ++                ++++      achivements and be
+    ++++                ++                ++++      extremely popular
+    ++++                ++                ++++      at that time. After
+    ++++                ++                ++++      graduating from
+    ++++                ++                ++++      college, I almost
+    ++++                ++                ++++      not participate in
+    ++++                ++                ++++      the daily work
+    ++++                ++                ++++      anymore, but thanks
+    ++++                ++                ++++      to my cooperators
+    ++++++              ++              ++++++      and successors, BYR
+    ++++++++++++++++++++++++++++++++++++++++++      Docs is still
+      +++++++++++++++++++++++++++++++++++++++       going well. If you
+                                                     want to know more
+    ++++++++++++++++++++++++++++++++++++++++++      about the
+   ++++++++++++++++++++++++++++++++++++++++++++     organization and its
+ ++++++++++++++++++            ++++++++++++++++++   projects, please
+++++++++++++++++++++++++++++++++++++++++++++++++++  visit the site
+                                                     [https://byrdocs.org]
+              ^ The logo of BYR Docs                and our GitHub
+                                                    Organization page
 [https://github.com/orgs/byrdocs].
 
 Nowadays, I'm dedicating to writing my book. I have written many things,
